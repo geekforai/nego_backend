@@ -1,0 +1,9 @@
+Product Name: Office Supplies
+Delivery Date: 2024-11-15
+Negotiation Closure Date: 2024-10-30
+Type of Currency: USD
+Target Price: 500.00
+Total Price: 600.00
+Payment Terms: Net 30
+Status: Created
+Created By: Alice Johnson
